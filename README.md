@@ -1,7 +1,14 @@
 # Minihawk
 Minihawk is a family of model aircraft with narrow wingspans, designed specifically for indoor FPV flight.
 
+**All engineering source files (.dxf, .step, .stl) of this project are licensed under the CERN-OHL-S-2.0 license, unless otherwise stated within the specific file.**
+
 # Common Minihawk
+
+![Ensemble(back)](./ensemble(back).jpg)
+
+![Ensemble(belly)](./ensemble(belly).jpg)
+
 This is a hand-cut version using 2mm and 3mm foam boards (vector board, depron, etc.) and 3D printed motor plate and servo horns. Additional materials includes :  
 
 1. 1104 brushless motor, 3 inches propeller and compatible ESC.  
