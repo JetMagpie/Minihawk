@@ -3,7 +3,7 @@ Minihawk is a family of model aircraft with narrow wingspans, designed specifica
 
 **All engineering source files (.dxf, .step, .stl) of this project are licensed under the CERN-OHL-S-2.0 license, unless otherwise stated within the specific file.**
 
-# Common Minihawk 2
+# Minihawk Optimized
 
 ![Ensemble](./ensemble.jpg)
 
